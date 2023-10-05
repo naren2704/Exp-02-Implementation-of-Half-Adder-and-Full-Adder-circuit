@@ -93,7 +93,11 @@ endmodule
 ## Full adder RTL Realization:
 ![image](https://github.com/naren2704/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118706984/d94ce77e-d605-41ea-9877-c51738d9ed43)
 ## Timing Full Adder:
-![image](https://github.com/naren2704/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118706984/7318e30d-bc2a-4cdc-bba2-a9abca960318)
+
+
+![image](https://github.com/naren2704/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118706984/efb10124-4dd5-46ee-bc62-1ec465ea791e)
+
+
 
 
 ### Result:

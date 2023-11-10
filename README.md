@@ -1,6 +1,5 @@
 # Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
-# Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
 
@@ -84,7 +83,8 @@ endmodule
 ![image](https://github.com/naren2704/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118706984/b32257c4-914b-47ab-9540-c2f537e0d89d)
 
 ### Timing Half adder:
-![image](https://github.com/naren2704/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118706984/30ad4de9-e14c-451f-bd7f-7f6bf56f3df4)
+![image](https://github.com/naren2704/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/118706984/40ab00d0-e154-42e6-947c-c81d1e7c9332)
+
 
 
 
